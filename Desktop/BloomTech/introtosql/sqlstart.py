@@ -1,7 +1,7 @@
 
 '''This is my first file for practicing SQL.'''
 
-# SQL constructs
+# SQL CONSTRUCTS
 
 # typical SQL query
 SELECT name, id, address, customer_since
